@@ -1,7 +1,7 @@
-# Hi there, I am Felix! 👋
+<!-- # Hi there, I am Felix! 👋 -->
 
 # Bio 
-I am a software developer specializing in app development specifically mobile using Android. I am experienced in other languages such as Java, Ruby, and Javascript. Furthermore, I love to explore the wonderful world of user interface and create mockup designs using Figma while understanding the user experience. While I am not coding, I am mentoring young people in the world of tech and ensuring they incorporate the humane side in the tech industry. Welcome to my world 🌏🗺⛰
+I am a skilled Software Developer who specializes in React.js, JavaScript, TypeScript, Ruby on Rails, and Node.js. Throughout my career, I have been dedicated to delivering high-quality and user-friendly software applications that enhance user experiences and drive business growth. My focus is on creating scalable and clean software solutions. Welcome to my world 🌏🗺⛰
 
 ![Profile View Counter](https://komarev.com/ghpvc/?username=Ase020)
 
@@ -14,7 +14,7 @@ I am a software developer specializing in app development specifically mobile us
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ase020&theme=radical&show_icons=true" alt="Github Stats"/>
 
-<!-- ![Beatrice's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=beatricewambui&theme=gotham&layout=compact) -->
+ ![Felix's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=felix_asejnr&theme=gotham&layout=compact) 
 <br/>
 
 # Tech Stacks
