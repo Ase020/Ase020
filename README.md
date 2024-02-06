@@ -1,4 +1,5 @@
 <!-- # Hi there, I am Felix! 👋 -->
+<h1 align="center">Hi 👋, I'm Felix Nyalenda Olali</h1>
 
 # Bio 
 I am a skilled Software Developer who specializes in React.js, JavaScript, TypeScript, Ruby on Rails, and Node.js. Throughout my career, I have been dedicated to delivering high-quality and user-friendly software applications that enhance user experiences and drive business growth. My focus is on creating scalable and clean software solutions. Welcome to my world 🌏🗺⛰
@@ -23,14 +24,19 @@ I am a skilled Software Developer who specializes in React.js, JavaScript, TypeS
 
 <img src= "https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" align="left" />
 <img src= "https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" align="left"/>
-<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="left"/> <br/>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" align="left"/>
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" align="left"/>
+
+<br/>
 
 ### Front-End Frameworks and Libraries
 
-<img src="https://img.shields.io/badge/angular.js-%23E23237.svg?style=for-the-badge&logo=angularjs&logoColor=white" align="left"/>
-<img src="https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white" align="left"/>
 <img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" align="left"/>
-<img src="https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white" align="left"/> <br/>
+<img src="[https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" align="left"/>
+<img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" align="left"/>
+<img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" align="left"/>
+
+<br/>
 
 ### Back-End Languages
 <img src = "https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" align = "left"/>
