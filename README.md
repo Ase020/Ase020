@@ -12,6 +12,7 @@ I am a skilled Software Developer who specializes in React.js, JavaScript, TypeS
   <img  align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=Ase020&theme=gotham">
 </a>
 
+
 <img src="https://github-readme-stats.vercel.app/api?username=Ase020&theme=radical&show_icons=true" alt="Github Stats"/>
 
  ![Felix's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=felix_asejnr&theme=gotham&layout=compact) 
