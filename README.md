@@ -9,7 +9,7 @@ I am a skilled Software Developer who specializes in React.js, JavaScript, TypeS
 
 
 <a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=Ase020&count_private=true&show_icons=true&theme=cobalt">
-  <img  align="left" src = "https://github-readme-streak-stats.herokuapp.com/?user=Ase020&theme=gotham">
+  <img  align="right" src = "https://github-readme-streak-stats.herokuapp.com/?user=Ase020&theme=gotham">
 </a>
 
 
