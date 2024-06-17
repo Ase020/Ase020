@@ -1,4 +1,3 @@
-ase
 <h1 align="center">Hi 👋, I'm Felix Nyalenda Olali</h1>
 
 # Bio 
